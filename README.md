@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Otterly 👋
 
-<!--
-**rainweaver76/rainweaver76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make pretty things for games.
 
-Here are some ideas to get you started:
+More specifically: I'm a creative generalist with roots going back to the mid-80s 
+who has never quite been able to stay away from making things for other people to 
+enjoy. I think outside the box, I explain things in plain language, and I have 
+strong opinions about good design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **New Otterhome: MineColonies Gone Wild** — a companion mod for [MineColonies](https://www.minecolonies.com/) 
+  for Minecraft 1.21.1, currently in active development
+- **MineColonies contributor** via the LDT Team
+
+## What I've shipped
+
+- **Savage Wilds** (Conan Exiles) — primary author of the Druidity system; 
+  several contributions adopted directly into the base game by Funcom
+- Custom weapon sets for Conan Exiles including fully modeled, textured, 
+  and animated assets built in the UE4 devkit
+
+## Skills & tools
+
+Blender · Maya · Substance Painter · Substance Designer · Photoshop · 
+NeoForge (Java) · Unreal Engine 4 devkit · PhysX · Git
+
+## Find me
+
+Active in the MineColonies, LDT Team, and Conan/Funcom community spaces.
+
+<img width="600" height="1150" alt="SteamProfile" src="https://github.com/user-attachments/assets/d7437b95-2a67-4f55-8e12-429c5b32dd09" />
+<img width="150" height="1150" alt="dragon sword" src="https://github.com/user-attachments/assets/1578153b-e8e8-4dd7-a700-bf446b2ea2e3" />
+<img width="600" height="1150" alt="Icon_Venus_Fire" src="https://github.com/user-attachments/assets/cafdc673-1ef6-45a0-a2fb-842a5c41c671" />

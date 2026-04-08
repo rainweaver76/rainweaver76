@@ -27,4 +27,4 @@ NeoForge (Java) · Unreal Engine 4 devkit · PhysX · Git
 
 ## Find me
 
-Active in the MineColonies, LDT Team, and Conan/Funcom community spaces.
+Active in the MineColonies and LDT Team community spaces.

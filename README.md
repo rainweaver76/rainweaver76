@@ -1,3 +1,6 @@
+<table>
+<tr>
+<td>
 # Hey, I'm Otterly 👋
 
 I make pretty things for games.
@@ -28,6 +31,9 @@ NeoForge (Java) · Unreal Engine 4 devkit · PhysX · Git
 ## Find me
 
 Active in the MineColonies, LDT Team, and Conan/Funcom community spaces.
-
+</td>
+<td>
 <img width="150" height="1150" alt="dragon sword" src="https://github.com/user-attachments/assets/1578153b-e8e8-4dd7-a700-bf446b2ea2e3" />
-<img width="600" height="1150" alt="Icon_Venus_Fire" src="https://github.com/user-attachments/assets/cafdc673-1ef6-45a0-a2fb-842a5c41c671" />
+</td>
+</tr>
+</table>

@@ -1,6 +1,3 @@
-<table>
-<tr>
-<td>
 # Hey, I'm Otterly 👋
 
 I make pretty things for games.
@@ -12,7 +9,7 @@ strong opinions about good design.
 
 ## What I'm working on
 
-- **New Otterhome: MineColonies Gone Wild** — a companion mod for [MineColonies](https://www.minecolonies.com/) 
+- **New Otterhome: MineColonies Gone Wild** - a companion mod for [MineColonies](https://www.minecolonies.com/) 
   for Minecraft 1.21.1, currently in active development
 - **MineColonies contributor** via the LDT Team
 
@@ -20,7 +17,7 @@ strong opinions about good design.
 
 - **Savage Wilds** (Conan Exiles) — primary author of the Druidity system; 
   several contributions adopted directly into the base game by Funcom
-- Custom weapon sets for Conan Exiles including fully modeled, textured, 
+- Custom weapon and armor sets for Conan Exiles including fully modeled, textured, 
   and animated assets built in the UE4 devkit
 
 ## Skills & tools
@@ -31,9 +28,3 @@ NeoForge (Java) · Unreal Engine 4 devkit · PhysX · Git
 ## Find me
 
 Active in the MineColonies, LDT Team, and Conan/Funcom community spaces.
-</td>
-<td>
-<img width="150" height="1150" alt="dragon sword" src="https://github.com/user-attachments/assets/1578153b-e8e8-4dd7-a700-bf446b2ea2e3" />
-</td>
-</tr>
-</table>

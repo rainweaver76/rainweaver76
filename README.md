@@ -22,7 +22,7 @@ strong opinions about good design.
 
 ## Skills & tools
 
-Blender · Maya · Substance Painter · Substance Designer · Photoshop · 
+Blender · Maya · Substance Painter · Substance Designer · Photoshop · Blockbench
 NeoForge (Java) · Unreal Engine 4 devkit · PhysX · Git
 
 ## Find me
